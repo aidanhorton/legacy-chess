@@ -1,6 +1,8 @@
 # legacy-chess
 A legacy chess engine - because I haven't uploaded enough attempts already! I made this one quite a few years back - hence the legacy!
 
+**Full warning, the code on this is pretty shocking (hence the inertia-chess remake!) - so explore at your own risk**
+
 This one is missing a few features, and there's a few bugs, detailed below:
 - In very rare cases it doesn't recognise check, or moves into check.
 - If it doesn't see any threat, it simply usually moves a piece back and forth - it doesn't take initiative.
